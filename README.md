@@ -40,6 +40,24 @@ You can safely download the latest version of the program from the link below. T
 
 [**>> Download the Latest Version <<**](https://github.com/mnnevres/pdf-converter/releases/latest)
 
+
+## Feedback and Support
+
+Your feedback, suggestions, or any bugs you encounter are very valuable to me. You can use one of the following methods to provide feedback:
+
+* **For General Feedback and Suggestions:**
+    You can contact me directly using the [contact form](https://nevresoglu.net/programs#contact) on my website.
+
+* **For Bug Reports and Technical Requests (Recommended):**
+    The most effective way to report a bug with details or to request a new feature is by using the "Issues" section on the project's GitHub page. This allows for a more organized tracking of reports.
+
+    * **Bug Report for QR Code Generator:**
+        [» QR Code Generator Issues Page](https://github.com/mnnevres/qr-code-generator/issues)
+
+    * **Bug Report for MN Pdf Converter:**
+        [» MN Pdf Converter Issues Page](https://github.com/mnnevres/mn-pdf-converter/issues)
+
+
 ---
 
 <a name="-türkçe"></a>
@@ -69,6 +87,24 @@ Verimlilik için tasarlanan bu araç, karmaşık yazılımlara ihtiyaç duymadan
 Programın en güncel sürümünü aşağıdaki bağlantıdan güvenle indirebilirsiniz. Kurulum dosyası (`setup.exe`), programı bilgisayarınıza kolayca kurmanızı sağlar.
 
 [**>> En Son Sürümü İndir <<**](https://github.com/mnnevres/pdf-converter/releases/latest)
+
+
+### Geri Bildirim ve Destek
+
+Programlarla ilgili görüşleriniz, önerileriniz veya karşılaştığınız hatalar benim için çok değerli. Geri bildirimde bulunmak için aşağıdaki yöntemlerden birini kullanabilirsiniz:
+
+* **Genel Görüş ve Öneriler İçin:**
+    Web sitemdeki [iletişim formunu](https://nevresoglu.net/programs#contact) kullanarak bana doğrudan ulaşabilirsiniz.
+
+* **Hata Bildirimi ve Teknik Talepler İçin (Tavsiye Edilen):**
+    Karşılaştığınız bir hatayı detaylarıyla bildirmek veya yeni bir özellik talep etmek için en etkili yöntem, projenin GitHub sayfasındaki "Issues" bölümünü kullanmaktır. Bu sayede bildirimler daha düzenli takip edilebilir.
+
+    * **QR Code Generator için Hata Bildirimi:**
+        [» QR Code Generator Issues Sayfası](https://github.com/mnnevres/qr-code-generator/issues)
+
+    * **MN Pdf Converter için Hata Bildirimi:**
+        [» MN Pdf Converter Issues Sayfası](https://github.com/mnnevres/mn-pdf-converter/issues)
+
 
 ---
 
