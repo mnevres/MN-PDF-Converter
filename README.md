@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.png" alt="MN Pdf Converter Icon" width="128" />
+  <img src="https://raw.githubusercontent.com/mnevres/MN-PDF-Converter/main/icon.png" alt="MN Pdf Converter Icon" width="128" />
 
   <h1>MN Pdf Converter</h1>
   <p>Free and simple desktop PDF image converter.</p>
