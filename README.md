@@ -32,7 +32,7 @@ Designed for efficiency, this tool helps you manage your documents quickly witho
 
 | PDF to Image Tab | Image to PDF Tab |
 | :--------------: | :--------------: |
-| ![PDF to Image](qr_code_qrchive.png) | ![Image to PDF](qr_code_settings.png) |
+| ![PDF to Image](pdf_to_image.png) | ![Image to PDF](image_to_pdf.png) |
 
 ### 🚀 Download
 
@@ -62,7 +62,7 @@ Verimlilik için tasarlanan bu araç, karmaşık yazılımlara ihtiyaç duymadan
 
 | PDF'den Resme Sekmesi | Resimden PDF'ye Sekmesi |
 | :-------------------: | :----------------------: |
-| ![PDF'den Resme](qr_code_qrchive.png) | ![Resimden PDF'ye](qr_code_settings.png) |
+| ![PDF to Image](pdf_to_image.png) | ![Image to PDF](image_to_pdf.png) |
 
 ### 🚀 İndirme
 
